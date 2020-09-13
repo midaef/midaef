@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Danil. 18 y.o. Software developer
-### Lang:
-* English
-* Russian
-### Programming lang:
-* Golang
-* Java
-### Like:
-* Back-end
+### Bio💬: ⚡Danil. 18 y.o. Software developer⚡
+### 🌏Lang: English, Russian🌏
+### 💻Programming lang: Golang, Java💻
+### ❤️ Back-end
+### Contacts📫
+* Telegram: @midaef
+* Email: danil.present@mail.ru
