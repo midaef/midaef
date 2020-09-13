@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/midaef)
 
 # Bio💬
-### ⚡Danil. 18 y.o. Software developer⚡
+### ⚡Danil. 18 y.o. Software developer. NameLess corp⚡
 ### 🌏Langs: English, Russian🌏
 
 # Technologies which I using🔥 
@@ -18,3 +18,6 @@
 # Contacts📫
 * Telegram: @midaef
 * Email: i@midaef.ru
+* My Discord: MIDAEF#6753
+* [NLBook](http://nlbook.net)
+* [NameLess Discord server](https://discord.gg/tfanwYd)
