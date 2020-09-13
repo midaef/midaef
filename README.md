@@ -6,8 +6,8 @@
 ### 🌏Lang: English, Russian🌏
 ### 💻Programming lang: Golang, Java💻
 ### ❤️ Back-end
-# GitHub stats📈
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=midaef&show_icons=true&theme=default)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midaef&layout=compact)](https://github.com/midaef/github-readme-stats)
+# My GitHub stats📈
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=midaef&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_title=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midaef&layout=compact)](https://github.com/midaef/github-readme-stats)
 
 # Contacts📫
 * Telegram: @midaef
