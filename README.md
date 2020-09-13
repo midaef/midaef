@@ -8,9 +8,9 @@
 
 # Technologies which I using🔥 
 ### ❤️ Back-end
-### 💻Programming langs: Golang, Java💻
+### Programming langs: Golang, Java💻
 ### DataBases: PostgreSQL🐘 , MySQL🐬 
-### Applied: Git,  🐳Docker, Docker-Compose🐳, Linux🐧 
+### Applied: Git, Docker and Docker-Compose🐳, Linux🐧 
 
 # My GitHub stats📈
 ![Midaef's github stats](https://github-readme-stats.vercel.app/api?username=midaef&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_title=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midaef&layout=compact)](https://github.com/midaef/github-readme-stats)
@@ -21,3 +21,4 @@
 * My Discord: MIDAEF#6753
 * [NLBook](http://nlbook.net)
 * [NameLess Discord server](https://discord.gg/tfanwYd)
+* [Nameless organization in GitHub](https://github.com/NameLessCorporation)
