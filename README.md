@@ -9,7 +9,7 @@
 # Technologies which I using🔥 
 ### ❤️ Back-end
 ### 💻Programming langs: Golang, Java💻
-### DataBases: PostgresSQL🐘 , MySQL🐬 
+### DataBases: PostgreSQL🐘 , MySQL🐬 
 ### Applied: Git,  🐳Docker, Docker-Compose🐳, Linux🐧 
 
 # My GitHub stats📈
@@ -17,4 +17,4 @@
 
 # Contacts📫
 * Telegram: @midaef
-* Email: danil.present@mail.ru
+* Email: i@midaef.ru
