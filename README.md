@@ -10,7 +10,8 @@
 ### ❤️ Back-end
 ### Programming lang: Golang💻
 ### DataBases: PostgreSQL🐘
-### Applied: Git, Docker and Docker-Compose🐳, Linux🐧 gRPC/gRPC-gateway, HTTP, TCP/UDP, Websocket
+### Applied: Git, Docker and Docker-Compose🐳, Linux🐧 -->
+### --> gRPC/gRPC-gateway, HTTP, TCP/UDP, Websocket
 
 # My GitHub stats📈
 ![Midaef's github stats](https://github-readme-stats.vercel.app/api?username=midaef&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_title=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midaef&layout=compact)](https://github.com/midaef/github-readme-stats)
