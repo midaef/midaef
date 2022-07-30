@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/midaef)
 
 # Bio💬
-### ⚡Danil. 19 y.o. Software developer.⚡
+### ⚡Danil. 20 y.o. Software developer.⚡
 ### 🌏Langs: English, Russian, Czech🌏
 
 # Technologies which I using🔥 
